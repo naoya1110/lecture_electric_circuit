@@ -1,1 +1,1 @@
-# lecture_electric_circuit
+# 電気回路の授業で便利なコードなど
